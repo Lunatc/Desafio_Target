@@ -16,8 +16,13 @@ int main(){
         x = aux;
         if(number == x1){
             printf("O numero esta na sequencia.\n");
+            break;
         }
         aux = 0;
+    }
+
+    if( x1 > number){
+        printf("O numero nao esta na sequencia.\n");
     }
 
 }
