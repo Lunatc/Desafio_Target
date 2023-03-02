@@ -10,6 +10,8 @@ int main(){
     printf("Digite o numero a ser verificado: ");
     scanf("%d",&number);
 
+
+    //Loop que vai adicionando a sequência e verifica se o numero informado pertence a ela
     while( x1 < number ){
         aux = x1;
         x1 = x + x1;
