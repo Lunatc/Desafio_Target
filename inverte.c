@@ -1,3 +1,10 @@
+/* 
+Desafio Target - Estágio Análise e Desenvolvimento
+Nome: Cintia Braz Mesquita 
+
+Exercício 5
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
