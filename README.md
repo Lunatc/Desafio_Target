@@ -6,7 +6,8 @@ Orientações para compilar os programas:
 
 - Instalar o compilador para C - GCC
 - Compilar o programa seguindo:
->    gcc NOMEDOPROGRAMA.c -o PROGRAMA//
+>    gcc NOMEDOPROGRAMA.c -o PROGRAMA
+
 >    ./PROGRAMA
 
 
