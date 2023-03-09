@@ -11,4 +11,9 @@ Orientações para compilar os programas:
 >    ./PROGRAMA
 
 
-Utilizei o VScode.
+Editor utilizado: VScode
+
+Exercicio 2: fibonacci.c
+Exercicio 3: readdata.c
+Exercicio 4: percentual.c
+Exercicio 5: inverte.c
